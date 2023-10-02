@@ -1,3 +1,10 @@
-# sketchup
+# Sketchup Make 2017
 
-These are my sketchup files! Want to see the inside of my apartment?
+Sometimes I design simple things using CAD. The files are here.
+
+Projects:
+- 
+- Kitchen cabinets
+- Soap dish
+- Apartment layout
+- Small computer desk
